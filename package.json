@@ -1,0 +1,15 @@
+{
+  "name": "yu-gi-oh-cards-data",
+  "homepage": "https://moved0311.github.io/yu-gi-oh-cards-data/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moved0311/yu-gi-oh-cards-data.git",
+  "author": "taiyi <moved0311@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
